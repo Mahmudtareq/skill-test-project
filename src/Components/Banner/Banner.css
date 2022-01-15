@@ -1,0 +1,40 @@
+.logo_search{
+	background: #cbd6c5;
+}
+ .logo_search .logo{
+	float: left;
+	width: 50%;	
+ }
+  .logo_search .logo .icon{
+	font-size: 70px;
+	color:#0f0e0e !important;
+	margin: 15px 10px;
+  }
+ .logo_search .search{
+	width:50%;
+	float:left;
+	text-align:right;
+	margin: 18px 0px;
+ }
+ 
+ .logo_search .search .search_box{
+	padding:3px 22px;
+	font-size: 18px;
+ }
+ .logo_search .search input{
+	padding: 8px;
+    border: 1px solid #00cc00;
+    margin-right: -5px;
+    /*max-width: 80%;*/
+ }
+ .logo_search .search input:focus{
+	width:50%;
+ }
+ .logo_search .search button{
+	 padding: 8px;
+    border-style: none;
+    border: 1px solid #00cc00;
+    background: #00cc00;
+    color: #ffffff;
+	cursor:pointer;
+ }

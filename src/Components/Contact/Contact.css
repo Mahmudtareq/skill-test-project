@@ -1,0 +1,49 @@
+/*contact us*/
+.contact_us{
+	padding:60px 0;
+}
+
+.contact_us h1{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 5px;
+}
+.contact_us h2{
+    text-align: left;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.contact_us p{
+    font-size: 20px;
+    text-align: center;
+}
+.contact{
+	padding:25px 0 25px 30px;
+}
+.contact_us .contact_form{
+	float:left;
+	width:50%;
+}
+
+.contact_form input,.contact_form textarea{
+	width:80%;
+	padding:8px 0;
+	margin:3px 0;
+	font-size:20px;
+	border:1.5px solid #bae847;
+	box-sizing: border-box;
+	resize:none;
+}
+.contact_form input:last-child{
+	background-color:#bae847;
+	margin-top:-5px;
+}
+
+
+.contact_us .contact_map{
+	float:left;
+	width:50%;
+}

@@ -1,0 +1,23 @@
+.about_us{
+	text-align:center;
+	border-bottom: 1.5px solid #332929;
+}
+
+.about_us .about{
+	margin:30px 0;
+}
+
+.about_us .about h2{
+	margin: 38px 0;
+	font-size:35px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#3d3a3a;
+}
+
+.about_us .about p{
+	font-size:20px;
+	line-height:25px;
+	margin-bottom:15px;
+	text-align:justify;
+}

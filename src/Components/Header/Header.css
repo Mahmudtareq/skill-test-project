@@ -1,0 +1,25 @@
+.title{
+	background:#bae847;
+	padding: 10px 0;
+}
+.title .mobile{
+	float: left;
+	width: 50%;	
+	}
+.title .mobile span{
+	font-size: 20px;
+	top:-4px;
+	position:relative;
+}
+.title .social{
+		width:50%;
+		float:left;
+		text-align:right;
+}
+.title .social ul{
+	list-style:none;
+}
+.title .social li{
+	display:inline;
+	margin: 0 5px;
+}
